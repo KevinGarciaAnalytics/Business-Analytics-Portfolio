@@ -12,4 +12,4 @@ Welcome to my portfolio! I am a Business Analytics student at the University of 
 
 ## Contact
 LinkedIn: www.linkedin.com/in/kevin-garcia-bbaanalytics
-Email: Kgarcia8010@gmail.com  
+Email: kgarcia8010@gmail.com  
